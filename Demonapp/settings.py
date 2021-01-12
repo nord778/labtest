@@ -27,7 +27,7 @@ SECRET_KEY = '*pl5u9__)cv7ms=#v%9i)-newvnyp@-wg!97^_$hs^uc_0i@-d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://rcoi-lab1.herokuapp.com']
 
 
 # Application definition
